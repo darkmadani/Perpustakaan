@@ -11,7 +11,6 @@ Aplikasi Perpustakaan sederhana berbasis Web
 - Migration
 
 ## Backend
-<br>
 cd backend
 <br>
 source website/bin/activate
@@ -19,7 +18,6 @@ source website/bin/activate
 flask run or flask run debug
 
 ## FrontEnd
-<br>
 cd frontend
 <br>
 npm install
