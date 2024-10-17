@@ -1,13 +1,27 @@
-# Perpustakaan
+## Perpustakaan
+Aplikasi Perpustakaan sederhana berbasis Web 
 
-Masih Progres
+## Tech 
+- Phython
+- MySQL 
+- React
+- Vite
+- Flask
+- SqlAlchemy
+- Migration
 
-Backend
+## Backend
+<br>
 cd backend
+<br>
 source website/bin/activate
+<br>
 flask run or flask run debug
 
-FrontEnd
+## FrontEnd
+<br>
 cd frontend
+<br>
 npm install
+<br>
 npm run dev
