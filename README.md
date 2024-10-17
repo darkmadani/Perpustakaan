@@ -2,7 +2,7 @@
 Aplikasi Perpustakaan sederhana berbasis Web 
 
 ## Dibuat Dengan : 
-- Phython
+- Python
 - MySQL 
 - React
 - Vite
