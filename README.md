@@ -1,7 +1,7 @@
 ## Perpustakaan
 Aplikasi Perpustakaan sederhana berbasis Web 
 
-## Tech 
+## Dibuat Dengan : 
 - Phython
 - MySQL 
 - React
